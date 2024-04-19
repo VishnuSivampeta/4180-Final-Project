@@ -41,10 +41,10 @@ Battery Holder https://www.sparkfun.com/products/552
 # Schematic
 | pOUT | TB6612FNG |                          | pOUT | Bluefruit LE UART |            | pOUT | Mono Audio Amp|    |  pOUT    |    HC-SR04 |       
 | ------------- | ------------- | ---------- | -----------| -------------|  --------- | -----------| ---------|---| ---------| -----------|
-| 5v  | VM |                | NC |  MOD|     | Speaker (+)| OUT (+) |                                         |   |           |  VCC      |
-| 5v  | VCC|                | GND | CTS|     |Speaker (-) |OUT (-) |                                          |   |           |  Trig      | 
-| GND  | GND |              | p27 | TXO|     |GND |PWR (-) |                                                  |   |           |   Echo     |
-| Rightmotor (-)  | AO1|    | p28 | RXI|     | 5v|PWR (+) |
+| 5v  | VM |                | NC |  MOD|     | Speaker (+)| OUT (+) |                                         |   |     5V    |  VCC      |
+| 5v  | VCC|                | GND | CTS|     |Speaker (-) |OUT (-) |                                          |   |     p12   |  Trig      | 
+| GND  | GND |              | p27 | TXO|     |GND |PWR (-) |                                                  |   |     p13   |   Echo     |
+| Rightmotor (-)  | AO1|    | p28 | RXI|     | 5v|PWR (+) |                                                   |   |   GND     |   GND     |
 | Rightmotor (+)   | AO2|   | 5v |  VIN|     | NC|PWR (s) |
 | Lefttmotor (-)   | BO2|   | NC |  RTS|     | p24|IN (+) |
 | Leftmotor (+)   | BO1|    | GND | GND|     |GND |IN (-) |
