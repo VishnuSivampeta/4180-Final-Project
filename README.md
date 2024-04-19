@@ -58,10 +58,10 @@ Battery Holder https://www.sparkfun.com/products/552
 | p21  | PWMB |
 | GND  | GND|
 
-| pOUT  |  mpr121 |                 | mBed |  DC IN|
-| ------------- | ------------- |---| ---| ---|
-| GND  | GND  |                 |  VIN | 5v |
-|  p9 (5k res pu to 3.3v)| SDA  |   |GND | GND |
+| pOUT  |  mpr121 |                 | mBed |  DC IN| | BreadBoard | Capacitor 1000uF|
+| ------------- | ------------- |---| ---| ---| ----|-----|-----|
+| GND  | GND  |                 |  VIN | 5v | | 5v| Cap|
+|  p9 (5k res pu to 3.3v)| SDA  |   |GND | GND | GND| Cap|
 |  p10 (5k res pu to 3.3v) | SCL  | |
 | p26  | IRQ  |
 | 3.3v  | VCC  |
