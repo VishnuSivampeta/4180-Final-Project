@@ -1,2 +1,41 @@
-# 4180-Final-Project
-Remote control car with various modes
+# Members 
+Vishnu Sivampeta, Andrew Liu
+
+# Parts List
+Adafruit Bluefruit LE UART Friend BLE https://www.adafruit.com/product/2479
+
+Sparkfun mpr121 capacitive keypad
+
+HC-SR04 Ultrasonic Sensor https://www.sparkfun.com/products/15569
+
+Dual TB6612FNG Motor Driver https://www.sparkfun.com/products/14450
+
+DC Barrel Jack Adapter https://www.sparkfun.com/products/10811
+
+2 DC Motors https://www.sparkfun.com/products/13302
+
+2 65mm rubber wheels https://www.sparkfun.com/products/13259
+
+Shadow Chassis https://www.sparkfun.com/products/13301
+
+SparkFun Mono Audio Amp Breakout TPA2005D1 https://www.sparkfun.com/products/11044
+
+PCB Mount speaker https://www.sparkfun.com/products/11089
+
+10K Potentiometer https://www.sparkfun.com/products/9806
+
+1000uF 25V Capacitor https://www.sparkfun.com/products/8982
+
+Battery Holder https://www.sparkfun.com/products/552
+
+# Schematic
+
+# Source Code
+
+# Photos
+![](https://drive.google.com/file/d/1lxhzMqgAI-F1FDUB7bZzO3_EMm682L4M/view?usp=sharing)
+
+# Videos
+
+# Presentation
+
