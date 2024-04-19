@@ -29,6 +29,24 @@ PCB Mount speaker https://www.sparkfun.com/products/11089
 Battery Holder https://www.sparkfun.com/products/552
 
 # Schematic
+| mBed | TB6612FNG |
+| ------------- | ------------- |
+| Content Cell  | VM |
+| Content Cell  | VCC|
+| Content Cell  | GND |
+| Content Cell  | AO1|
+| Content Cell  | AO2|
+| Content Cell  | BO2|
+| Content Cell  | BO1|
+| Content Cell  | GND|
+| Content Cell  | PWMA |
+| Content Cell  | AI2|
+| Content Cell  | AI1 |
+| Content Cell  | STBY|
+| Content Cell  | BI! |
+| Content Cell  | BI2|
+| Content Cell  | PWMB |
+| Content Cell  | GND|
 
 # Source Code
 
