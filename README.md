@@ -75,11 +75,11 @@ Battery Holder https://www.sparkfun.com/products/552
 | p26  | IRQ  |
 | 3.3v  | VCC  |
 
+# Presentation
+
+[Lock_Bot_Auto.pdf](https://github.com/VishnuSivampeta/4180-Final-Project/files/15044427/Lock_Bot_Auto.pdf)
+
 # Photos
 ![FA958D7E-4D2F-452D-A3B6-127E796B08D6](https://github.com/VishnuSivampeta/4180-Final-Project/assets/125213976/56838a48-c950-45b2-b441-311d8c78341a)
 ![21E0D1F8-6361-413B-AA73-432D1AD1CF92](https://github.com/VishnuSivampeta/4180-Final-Project/assets/125213976/57a660da-c50a-4cd9-a4a4-0331b6ca0543)
 ![DB581641-4A01-4D00-8AA4-E0C3A1700049](https://github.com/VishnuSivampeta/4180-Final-Project/assets/125213976/767075b0-a777-4901-b3dc-fdc542208eea)
-
-# Presentation
-
-[Lock_Bot_Auto.pdf](https://github.com/VishnuSivampeta/4180-Final-Project/files/15044427/Lock_Bot_Auto.pdf)
