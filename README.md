@@ -9,6 +9,15 @@
 
 # Video Demonstration
 
+**Autonomous "Roomba" Mode | Code : 5291**
+
+https://github.com/VishnuSivampeta/4180-Final-Project/assets/125213976/10faf97c-57dc-4ef4-a42f-30db83fe78d7
+
+**Manual Control Mode | Code : 4180**
+
+https://github.com/VishnuSivampeta/4180-Final-Project/assets/125213976/2512a088-e668-4e2f-8519-a8245c2a7bdb
+
+
 #
 
 # Parts List
