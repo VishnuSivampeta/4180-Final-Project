@@ -59,9 +59,9 @@ Battery Holder https://www.sparkfun.com/products/552
 | GND  | GND|
 
 | pOUT  |  mpr121 |                 | mBed |  DC IN|
-| ------------- | ------------- |---| VIN | 5v |
-| GND  | GND  | |                   | GND |GND |
-|  p9 (5k res pu to 3.3v)| SDA  |   |
+| ------------- | ------------- |---| ---| ---|
+| GND  | GND  | |                   |  VIN | 5v |
+|  p9 (5k res pu to 3.3v)| SDA  |   |GND | GND |
 |  p10 (5k res pu to 3.3v) | SCL  | |
 | p26  | IRQ  |
 | 3.3v  | VCC  |
