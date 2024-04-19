@@ -29,16 +29,16 @@ PCB Mount speaker https://www.sparkfun.com/products/11089
 Battery Holder https://www.sparkfun.com/products/552
 
 # Schematic
-| mBed | TB6612FNG |
-| ------------- | ------------- |
-| 5v  | VM |
-| 5v  | VCC|
-| GND  | GND |
-| Rightmotor (-)  | AO1|
-| Rightmotor (+)   | AO2|
-| Lefttmotor (-)   | BO2|
-| Leftmotor (+)   | BO1|
-| GND  | GND|
+| mBed | TB6612FNG |  | mbed | Bluefruit LE UART |
+| ------------- | ------------- | ---------- | -----------| -------------|
+| 5v  | VM |                | NC |  MOD|
+| 5v  | VCC|                | GND | CTS|
+| GND  | GND |              | p27 | TXO|
+| Rightmotor (-)  | AO1|    | p28 | RXI|
+| Rightmotor (+)   | AO2|   | 5v |  VIN|
+| Lefttmotor (-)   | BO2|   | NC |  RTS|
+| Leftmotor (+)   | BO1|    | GND | GND|
+| GND  | GND|               | GND | DFU|
 | p22  | PWMA |
 | p5  | AI2|
 | p6  | AI1 |
