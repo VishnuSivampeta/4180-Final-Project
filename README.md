@@ -31,22 +31,22 @@ Battery Holder https://www.sparkfun.com/products/552
 # Schematic
 | mBed | TB6612FNG |
 | ------------- | ------------- |
-| Content Cell  | VM |
-| Content Cell  | VCC|
-| Content Cell  | GND |
-| Content Cell  | AO1|
-| Content Cell  | AO2|
-| Content Cell  | BO2|
-| Content Cell  | BO1|
-| Content Cell  | GND|
-| Content Cell  | PWMA |
-| Content Cell  | AI2|
-| Content Cell  | AI1 |
-| Content Cell  | STBY|
-| Content Cell  | BI! |
-| Content Cell  | BI2|
-| Content Cell  | PWMB |
-| Content Cell  | GND|
+| 5v  | VM |
+| 5v  | VCC|
+| GND  | GND |
+| Rightmotor (-)  | AO1|
+| Rightmotor (+)   | AO2|
+| Lefttmotor (-)   | BO2|
+| Leftmotor (+)   | BO1|
+| GND  | GND|
+| p22  | PWMA |
+| p5  | AI2|
+| p6  | AI1 |
+| 5v  | STBY|
+| p7  | BI1 |
+| p8  | BI2|
+| p21  | PWMB |
+| GND  | GND|
 
 # Source Code
 
