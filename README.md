@@ -57,6 +57,15 @@ Battery Holder https://www.sparkfun.com/products/552
 | p8  | BI2|
 | p21  | PWMB |
 | GND  | GND|
+
+| pOUT  |  mpr121 |
+| ------------- | ------------- |
+| GND  | GND  |
+|  p9 (5k res pu to 3.3v)| SDA  |
+|  p10 (5k res pu to 3.3v) | SCL  |
+| p26  | IRQ  |
+| 3.3v  | VCC  |
+
 # Photos
 ![FA958D7E-4D2F-452D-A3B6-127E796B08D6](https://github.com/VishnuSivampeta/4180-Final-Project/assets/125213976/56838a48-c950-45b2-b441-311d8c78341a)
 ![21E0D1F8-6361-413B-AA73-432D1AD1CF92](https://github.com/VishnuSivampeta/4180-Final-Project/assets/125213976/57a660da-c50a-4cd9-a4a4-0331b6ca0543)
