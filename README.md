@@ -1,10 +1,20 @@
-# Members 
-Vishnu Sivampeta, Andrew Liu
+# Lock-Bot Auto
+**Vishnu Sivampeta & Andrew Liu**
+
+**ECE 4180 Section A @GeorgiaTech** 
+
+**Spring 2024**
+
+![186F52DC-6AFE-4A01-8C7E-AC273A648D97](https://github.com/VishnuSivampeta/4180-Final-Project/assets/125213976/1948e6db-4b2b-4572-962d-6981b8344654)
+
+# Video Demonstration
+
+#
 
 # Parts List
 Adafruit Bluefruit LE UART Friend BLE https://www.adafruit.com/product/2479
 
-Sparkfun mpr121 capacitive keypad https://www.sparkfun.com/products/retired/12017
+Sparkfun mpr121 capacitive keypad
 
 HC-SR04 Ultrasonic Sensor https://www.sparkfun.com/products/15569
 
@@ -47,13 +57,11 @@ Battery Holder https://www.sparkfun.com/products/552
 | p8  | BI2|
 | p21  | PWMB |
 | GND  | GND|
-
-# Source Code
-
 # Photos
-![](https://drive.google.com/file/d/1lxhzMqgAI-F1FDUB7bZzO3_EMm682L4M/view?usp=sharing)
-
-# Videos
+![FA958D7E-4D2F-452D-A3B6-127E796B08D6](https://github.com/VishnuSivampeta/4180-Final-Project/assets/125213976/56838a48-c950-45b2-b441-311d8c78341a)
+![21E0D1F8-6361-413B-AA73-432D1AD1CF92](https://github.com/VishnuSivampeta/4180-Final-Project/assets/125213976/57a660da-c50a-4cd9-a4a4-0331b6ca0543)
+![DB581641-4A01-4D00-8AA4-E0C3A1700049](https://github.com/VishnuSivampeta/4180-Final-Project/assets/125213976/767075b0-a777-4901-b3dc-fdc542208eea)
 
 # Presentation
 
+[Lock_Bot_Auto.pdf](https://github.com/VishnuSivampeta/4180-Final-Project/files/15044427/Lock_Bot_Auto.pdf)
