@@ -14,7 +14,7 @@
 # Parts List
 Adafruit Bluefruit LE UART Friend BLE https://www.adafruit.com/product/2479
 
-Sparkfun mpr121 capacitive keypad
+Sparkfun mpr121 capacitive keypad https://www.sparkfun.com/products/retired/10250
 
 HC-SR04 Ultrasonic Sensor https://www.sparkfun.com/products/15569
 
