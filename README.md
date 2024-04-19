@@ -29,18 +29,18 @@ PCB Mount speaker https://www.sparkfun.com/products/11089
 Battery Holder https://www.sparkfun.com/products/552
 
 # Schematic
-| pOUT | TB6612FNG |                          | pOUT | Bluefruit LE UART |            | pOUT | Mono Audio Amp|
-| ------------- | ------------- | ---------- | -----------| -------------|  --------- | -----------| -------------|
-| 5v  | VM |                | NC |  MOD|     | Speaker (+)| OUT (+) |
-| 5v  | VCC|                | GND | CTS|     |Speaker (-) |OUT (-) |
-| GND  | GND |              | p27 | TXO|     |GND |PWR (-) |
+| pOUT | TB6612FNG |                          | pOUT | Bluefruit LE UART |            | pOUT | Mono Audio Amp|    |  pOUT    |    HC-SR04 |       
+| ------------- | ------------- | ---------- | -----------| -------------|  --------- | -----------| ---------|---| ---------| -----------|
+| 5v  | VM |                | NC |  MOD|     | Speaker (+)| OUT (+) |                                         |   |           |  VCC      |
+| 5v  | VCC|                | GND | CTS|     |Speaker (-) |OUT (-) |                                          |   |           |  Trig      | 
+| GND  | GND |              | p27 | TXO|     |GND |PWR (-) |                                                  |   |           |   Echo     |
 | Rightmotor (-)  | AO1|    | p28 | RXI|     | 5v|PWR (+) |
 | Rightmotor (+)   | AO2|   | 5v |  VIN|     | NC|PWR (s) |
 | Lefttmotor (-)   | BO2|   | NC |  RTS|     | p24|IN (+) |
 | Leftmotor (+)   | BO1|    | GND | GND|     |GND |IN (-) |
-| GND  | GND|               | GND | DFU|     | POT (1)|VOL (1) |
-| p22  | PWMA | | | |                        | POT (2)|VOL (2)|    
-| p5  | AI2|    |  | |                       | POT (3)|VOL (3)|
+| GND  | GND|               | GND | DFU|     | 10K POT (1)|VOL (1) |
+| p22  | PWMA | | | |                        | 10K POT (2)|VOL (2)|    
+| p5  | AI2|    |  | |                       | 10K POT (3)|VOL (3)|
 | p6  | AI1 |
 | 5v  | STBY|
 | p7  | BI1 |
