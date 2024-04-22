@@ -7,6 +7,14 @@
 
 ![186F52DC-6AFE-4A01-8C7E-AC273A648D97](https://github.com/VishnuSivampeta/4180-Final-Project/assets/125213976/1948e6db-4b2b-4572-962d-6981b8344654)
 
+# Background
+
+With the ever-growing popularity of the Roomba autonomous robot, our project seeks to add one extra layer of security to the robot through password protection. Similar to most phones nowadays, with the growth of automated home devices and appilances, we thought it important to have devices with some kind of password protection with how connected these devices are becoming. The Lock-Bot Auto does this through a 12-key touchpad that can unlock the car and set it to different modes depending on the code the user enters.
+
+The way the robot works follows this flow chart:
+
+
+
 # Video Demonstration
 
 **Autonomous "Roomba" Mode | Code : 5291**
@@ -16,9 +24,6 @@ https://github.com/VishnuSivampeta/4180-Final-Project/assets/125213976/10faf97c-
 **Manual Control Mode | Code : 4180**
 
 https://github.com/VishnuSivampeta/4180-Final-Project/assets/125213976/2512a088-e668-4e2f-8519-a8245c2a7bdb
-
-
-#
 
 # Parts List
 Adafruit Bluefruit LE UART Friend BLE https://www.adafruit.com/product/2479
