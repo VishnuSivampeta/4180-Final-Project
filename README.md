@@ -13,7 +13,9 @@ With the ever-growing popularity of the Roomba autonomous robot, our project see
 
 The way the robot works follows this flow chart:
 
+![Screenshot 2024-04-22 081441](https://github.com/VishnuSivampeta/4180-Final-Project/assets/125213976/39771de8-7944-43be-9dc0-0ce87b8f5d9b)
 
+To control the robot, use the Adafruit Bluefruit Connect app on iOS. The control pad feature will have a 4-directional keypad as well as 4 numbered buttons. After unlocking the robot through the attached touchpad, hitting "1" on your phone will exit the manual mode, and hitting "2" will exit the automatic mode. 
 
 # Video Demonstration
 
